@@ -1,1 +1,1 @@
-# EC_Knapsack
+# EC_Knapsack (by pairing)
